@@ -1,0 +1,11 @@
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow
+__pypackages__/*
+.idea/*
+__pycache__/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
